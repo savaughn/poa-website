@@ -25,7 +25,7 @@ export default class Clock extends React.Component {
     render() {
         return (
             <div className="myClock">
-                <h2>The time is currently {this.state.date}!</h2>
+                <h2>The time is currently {this.state.date}.</h2>
             </div>
         );
     }
