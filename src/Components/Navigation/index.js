@@ -7,6 +7,7 @@ import CommunityScreen from "../../Screens/community";
 import ParkScreen from "../../Screens/park";
 import WasteScreen from "../../Screens/waste";
 import CityScreen from "../../Screens/city";
+import AdminScreen from "../../Screens/admin";
 import NavBar from "../Navbar";
 
 const Navigation = () => (
@@ -18,6 +19,7 @@ const Navigation = () => (
             <Route path={ROUTES.PARK} component={ ParkScreen } />
             <Route path={ROUTES.WASTE} component={ WasteScreen } />
             <Route path={ROUTES.CITY} component={ CityScreen } />
+            <Route path={ROUTES.ADMIN} component={ AdminScreen } />
         </Router>
 );
 export default Navigation;
