@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5436a79-726d-4024-a31c-bcde1948662d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c203882a-49e3-4330-a2e9-759c2bec4018" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +38,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\website\src\Assets" />
-      <recent name="C:\Users\Spencer\WebstormProjects\my-website\src\Components" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\website\src\Screens" />
       <recent name="D:\website\src\Assets" />
       <recent name="D:\website\src\Components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\website\src\Assets" />
+      <recent name="C:\Users\Spencer\WebstormProjects\my-website\src\Components" />
     </key>
   </component>
   <component name="RunDashboard">
