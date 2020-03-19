@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5436a79-726d-4024-a31c-bcde1948662d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assets/CPPOA_header_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/poa_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamics/contactInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamics/duesInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamics/memberInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/city.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/community.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/park.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/rules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/waste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/StateProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Clock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Clock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Greeting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/fGreeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/fGreeting.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +118,7 @@
       <workItem from="1581485700592" duration="60000" />
       <workItem from="1581562104680" duration="8037000" />
       <workItem from="1584547300821" duration="23818000" />
-      <workItem from="1584624624882" duration="10525000" />
+      <workItem from="1584624624882" duration="12441000" />
     </task>
     <task id="LOCAL-00001" summary="laptop commit">
       <created>1581474744250</created>
@@ -155,7 +127,28 @@
       <option name="project" value="LOCAL" />
       <updated>1581474744250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="poa website initial commit">
+      <created>1584635333916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584635333916</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added admin screen">
+      <created>1584636381367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584636381367</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removed home from sidebar">
+      <created>1584636397592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584636397592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,10 +168,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/website" />
     </ignored-roots>
     <MESSAGE value="laptop commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="laptop commit" />
+    <MESSAGE value="poa website initial commit" />
+    <MESSAGE value="added admin screen" />
+    <MESSAGE value="removed home from sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed home from sidebar" />
   </component>
 </project>
