@@ -10,9 +10,6 @@ function Sidebar() {
         <div className="w3-left w3-white w3-card">
             <List>
                 <ListItem button>
-                    <Link to={ROUTES.HOME} style={{ textDecoration: 'none' }}>Home</Link>
-                </ListItem>
-                <ListItem button>
                     <Link to={ROUTES.COMMUNITY} style={{ textDecoration: 'none' }}>Community Information</Link>
                 </ListItem>
                 <ListItem button>
